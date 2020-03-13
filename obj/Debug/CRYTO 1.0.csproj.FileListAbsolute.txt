@@ -1,0 +1,20 @@
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.exe.config
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.exe
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.pdb
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csprojAssemblyReference.cache
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO_1._0.Form1.resources
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO_1._0.Properties.Resources.resources
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csproj.GenerateResource.cache
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.exe
+C:\Users\Jorge Teruya\Desktop\KAZU\UNIP\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.pdb
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.exe.config
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.exe
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\bin\Debug\CRYTO 1.0.pdb
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csprojAssemblyReference.cache
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO_1._0.Form1.resources
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO_1._0.Properties.Resources.resources
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csproj.GenerateResource.cache
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.csproj.CoreCompileInputs.cache
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.exe
+H:\Backup\Kazu\UNIP\APS 1\CRYTO 1.0\CRYTO 1.0\obj\Debug\CRYTO 1.0.pdb
